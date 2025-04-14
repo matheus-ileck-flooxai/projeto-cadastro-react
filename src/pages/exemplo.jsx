@@ -4,7 +4,7 @@ export default function Exemplo(){
 
     return (
     
-        <Cabecalho></Cabecalho>
+        <Cabecalho titulo="Next.js & React"></Cabecalho>
     )
 
 }
